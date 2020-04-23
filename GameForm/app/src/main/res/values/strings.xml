@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game Form</string>
+    <string name="game_reg">Game registration</string>
+    <string name="game_name">Name</string>
+    <string name="type">Type</string>
+    <string name="company_name">Company</string>
+    <string name="age_group">Age Group</string>
+    <string name="submit">Submit</string>
+    <string name="enterName">Enter game name</string>
+    <string name="entertype">Enter game type</string>
+    <string name="entercompany">Enter Company name</string>
+    <string name="ageGrup">Enter age group</string>
+    <string name="Submit">Submit</string>
+    <string name="confirmmain">Confirm Registration</string>
+</resources>
